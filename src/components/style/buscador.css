@@ -1,0 +1,40 @@
+.barrabusqueda{
+    padding: 10 40px 10 25px;
+    position: center;
+    margin: 0 auto;
+    padding-top: 6px;
+    height: 600px;
+    align-content: center;
+    align-items: center;
+}
+.barrabusqueda, .formulariodebarra {
+    width: 200px ;
+    height: 50px;
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+.formulariodebarra{
+    overflow: hidden;
+	position: relative;
+}
+
+.lista{
+    list-style-type: none;
+padding: 0px;
+margin: 0px;
+list-style-type: lower-roman;
+}
+
+.lista, .listas{
+    color: aliceblue;
+    text-align: center;
+}
+
+.titulo{
+    text-align: center;
+    color: aliceblue;
+}
