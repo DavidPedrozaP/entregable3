@@ -7,6 +7,7 @@ import ResidentForm from './components/ResidentForm'
 import ResidentList from './components/ResidentList'
 import {getRandomNumber} from './utils/handleRandom'
 
+
 const RESIDENTS_PERPAGE = 12
 
 function App() {
