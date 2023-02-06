@@ -1,7 +1,8 @@
 body{
   margin: 0;
   background-image: url(https://poptv.orange.es/wp-content/uploads/sites/3/2018/03/Rick-and-Morty-3p.jpg);
-  background-repeat: repeat-x repeat-y;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
  
 html{
